@@ -13,7 +13,7 @@ Postfolio Projects
 
 
 
-Hihlights
+Highlights
 I have built secure, user-friendly applications across web, mobile, and desktop platforms. All while applying best practices in authentication, validation, and role-based access. I have hands-on experience with both relational an NoSQL databases.
 
 Connect with me
